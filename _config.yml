@@ -1,0 +1,36 @@
+remote_theme: bruno-chanrio/materialize-jekyll@1.2
+plugins:
+- jekyll-remote-theme
+- jekyll-last-modified-at
+- jemoji
+
+author: Telechancho Infinity
+
+head-title: Telechancho Infinity 
+title: Telechancho Infinity
+logo: /TelechanchoInfinityLogoWhite.png
+
+baseurl: ""    # the subpath of your site, "/blog"
+url: ""
+
+# footer 
+description: Lista IPTV que contiene los mejores canales en Español, siempre actualizada con nuevos canales
+
+#
+# Custom
+#
+
+# Color
+# All css class, see: http://materializecss.com/color.html
+header-color: "red darken-4"
+head-theme-color: "#e53935"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
+
+footer-color: "red darken-4"
+footer-button-color: "red darken-2"
+footer-link-color: "red-text text-lighten-2"
+
+share-button-color: "red darken-3"
+share-button-small-color: ""
+
+##
+#excerpt_separator: <!-- excerpt_end -->
