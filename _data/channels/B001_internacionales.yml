@@ -1,0 +1,14 @@
+group-title: Internacionales
+channels:
+  - name: RT en Español
+    logo: RT.png
+    stream-url: https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+    channel-type: tv
+  - name: DW en Español
+    logo: DW.png
+    stream-url: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+    channel-type: tv
+  - name: Telesur
+    logo: Telesur.png
+    stream-url: https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+    channel-type: tv
